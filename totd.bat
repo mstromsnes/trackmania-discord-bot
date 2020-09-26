@@ -1,0 +1,1 @@
+venv\scripts\pythonw.exe bot.py
